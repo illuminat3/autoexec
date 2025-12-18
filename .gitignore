@@ -1,0 +1,8 @@
+*
+!.git/
+!autoexec.cfg
+!custom/
+!custom/**
+
+# Custom exec scripts
+!practice.cfg
